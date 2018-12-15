@@ -1,4 +1,1 @@
-void main ()
-{
-int a=20:
-
+hello git reset
