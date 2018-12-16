@@ -1,0 +1,4 @@
+*.class
+[0-a] *.*
+*.log
+!build.log
